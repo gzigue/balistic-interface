@@ -1,3 +1,24 @@
 page-home {
 
+    h3 {
+        text-align: center;
+    }
+
+    img {
+        width: 40%;
+        align-self: center;
+        margin: auto;
+        display: block;
+        padding: 10px;
+    }
+
+    ion-slides {
+        padding: 10px;
+    }
+
+    p {
+        text-align: center;
+        font-size: x-large;
+    }
+
 }

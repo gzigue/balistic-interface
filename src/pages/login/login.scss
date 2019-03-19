@@ -1,0 +1,38 @@
+page-login {
+
+    h3 {
+        text-align: center;
+    }
+
+    img {
+        width: 40%;
+        align-self: center;
+        margin: auto;
+        display: block;
+        padding: 10px;
+    }
+
+    .myView {
+        background: #2676BB;
+        background-image: url('../assets/imgs/background1.jpg');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: initial;
+    }
+
+    .center {
+        background: white;
+        margin-top: 20%;
+        align-items: center !important;
+        display: flex;
+        flex-direction: column;
+        justify-content: center !important;
+        overflow-y: auto;
+    }
+
+    .margin {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+}
